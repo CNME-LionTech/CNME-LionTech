@@ -13,7 +13,7 @@ To inspire and educate the next generation of scientists, engineers, and innovat
 ### ESA AstroPi Mission Space Lab
 We have been proud participants in the European Space Agency's AstroPi Mission Space Lab competition for multiple years. This prestigious program allows students to write code that runs on Raspberry Pi computers aboard the International Space Station.
 
-#### 2023/2024 Mission
+#### 2023/2024 Mission - [AstroPi-MSL-Report-LionTech-2023.pdf](https://github.com/CNME-LionTech/AstroPi-2023/blob/main/reports/AstroPi%20MSL%20Report%20LionTech%202023.pdf)
 Our current mission focuses on calculating the orbital speed of the ISS through image processing and feature tracking between sequential photographs of Earth.
 
 #### 2022/2023 Mission
@@ -21,7 +21,7 @@ Our current mission focuses on calculating the orbital speed of the ISS through 
 #### 2021/2022 Mission
 We developed algorithms to identify landmarks and reference points in Earth photography, determine ISS speed, and classify cloud patterns over land and sea.
 
-#### 2020/2021 Mission
+#### 2020/2021 Mission - [AstroPi-MSL-Report-LionTech-2021.pdf](https://github.com/CNME-LionTech/AstroPi-2021/blob/main/report/AstroPi-MSL-Report-LionTech-2021.pdf)
 
 ## Achievements
 
@@ -30,7 +30,7 @@ We developed algorithms to identify landmarks and reference points in Earth phot
   - Successfully measured the velocity of the ISS in orbit
   - Created an algorithm to detect smoke, pollution, and types of cloud coverage in captured images
   - [Official ESA Recognition](https://www.esa.int/Education/AstroPI/The_winners_of_the_European_Astro_Pi_Challenge_Mission_Space_Lab_2020-21)
-- **Highly Commended Award** in the European Astro Pi Challenge Mission Space Lab 2023
+- **Highly Commended Award** in the European Astro Pi Challenge Mission Space Lab 2023 (report: [AstroPi MSL Report LionTech 2023.pdf](https://github.com/CNME-LionTech/AstroPi-2023/blob/main/reports/AstroPi%20MSL%20Report%20LionTech%202023.pdf)
   - The mission focused on cloud patterns and atmospheric gravity waves
   - [Official ESA Recognition](https://www.esa.int/Education/AstroPI/Astro_Pi_Mission_Space_Lab_2022_23_The_results)
 
