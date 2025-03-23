@@ -25,8 +25,14 @@ We developed algorithms to identify landmarks and reference points in Earth phot
 
 ## Achievements
 
-- Advanced to Phase 2 of ESA AstroPi Mission Space Lab 2023/2024
-- [List other notable achievements, awards, or recognitions]
+- Advanced to final phase of ESA AstroPi Mission Space Lab 2021/2024 (achieved **Flight Status**)
+- **Highly Commended Award** in the European Astro Pi Challenge Mission Space Lab 2021
+  - Successfully measured the velocity of the ISS in orbit
+  - Created an algorithm to detect smoke, pollution, and types of cloud coverage in captured images
+  - [Official ESA Recognition](https://www.esa.int/Education/AstroPI/The_winners_of_the_European_Astro_Pi_Challenge_Mission_Space_Lab_2020-21)
+- **Highly Commended Award** in the European Astro Pi Challenge Mission Space Lab 2023
+  - The mission focused on cloud patterns and atmospheric gravity waves
+  - [Official ESA Recognition](https://www.esa.int/Education/AstroPI/Astro_Pi_Mission_Space_Lab_2022_23_The_results)
 
 ## Technologies We Use
 
@@ -38,7 +44,7 @@ We developed algorithms to identify landmarks and reference points in Earth phot
 
 ## Connect With Us
 
-- **School Website:** [Colegiul National "Mihai Eminescu" Oradea](https://eminescuoradea.ro/))
+- **School Website:** [Colegiul National "Mihai Eminescu" Oradea](https://eminescuoradea.ro/)
 
 ## Sponsors and Partners
 
