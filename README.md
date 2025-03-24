@@ -23,8 +23,13 @@ Our mission focused on the analysis of cloud patterns and detection of atmospher
 - Applied spectral analysis using 2D Fast Fourier Transform to study wave characteristics
 - Used TensorFlow and image processing techniques to analyze cloud formations
 
-#### 2021/2022 Mission
-We developed algorithms to identify landmarks and reference points in Earth photography, determine ISS speed, and classify cloud patterns over land and sea.
+#### 2021/2022 Mission - [AstroPi-MSL-Report-LionTech-2022.pdf](https://github.com/CNME-LionTech/AstroPi-2022/blob/main/report/AstroPi-MSL-Report-LionTech-2022.pdf)
+We developed algorithms for albedo measurement, determine ISS speed, and classify cloud patterns over land and sea.
+- Added the precise measurement of Earth's average albedo (0.099543)
+- Specified the methodology for albedo measurement by categorizing surfaces into cloud, land, and sea
+- Added details about your image enhancement techniques (both CLAHE and Brightness-Contrast enhancement)
+- Specific data collection statistics (740 images, 28,620 sensor samples)
+- Key research focuses (snow vs. clouds, storm detection, albedo measurement)
 
 #### 2020/2021 Mission - [AstroPi-MSL-Report-LionTech-2021.pdf](https://github.com/CNME-LionTech/AstroPi-2021/blob/main/report/AstroPi-MSL-Report-LionTech-2021.pdf)
 Our award-winning mission focused on:
