@@ -24,12 +24,12 @@ Our mission focused on the analysis of cloud patterns and detection of atmospher
 - Used TensorFlow and image processing techniques to analyze cloud formations
 
 #### 2021/2022 Mission - [AstroPi-MSL-Report-LionTech-2022.pdf](https://github.com/CNME-LionTech/AstroPi-2022/blob/main/report/AstroPi-MSL-Report-LionTech-2022.pdf)
-We developed algorithms for albedo measurement, determine ISS speed, and classify cloud patterns over land and sea.
-- Added the precise measurement of Earth's average albedo (0.099543)
-- Specified the methodology for albedo measurement by categorizing surfaces into cloud, land, and sea
-- Added details about your image enhancement techniques (both CLAHE and Brightness-Contrast enhancement)
-- Specific data collection statistics (740 images, 28,620 sensor samples)
-- Key research focuses (snow vs. clouds, storm detection, albedo measurement)
+Our mission extended previous work to explore albedo measurement and advanced cloud classification. We:
+- Measured Earth's average albedo (0.099543) by categorizing surfaces into cloud, land, and sea
+- Enhanced image quality using CLAHE and Brightness-Contrast techniques
+- Collected 740 images and 28,620 sensor data samples during a 3-hour run (May 7-8, 2022)
+- Focused on differentiating snow from clouds and detecting storm formation over oceanic regions
+- Measured ISS velocity (6.68-9.82 km/s) using KAZE 2D Features detection algorithm
 
 #### 2020/2021 Mission - [AstroPi-MSL-Report-LionTech-2021.pdf](https://github.com/CNME-LionTech/AstroPi-2021/blob/main/report/AstroPi-MSL-Report-LionTech-2021.pdf)
 Our award-winning mission focused on:
@@ -47,9 +47,12 @@ Our award-winning mission focused on:
 - **Highly Commended Award** in the European Astro Pi Challenge Mission Space Lab 2021
   - Successfully measured the velocity of the ISS in orbit
   - Created an algorithm to detect smoke, pollution, and types of cloud coverage in captured images
+  - Developed a CNN classifier for cloud type identification
   - [Official ESA Recognition](https://www.esa.int/Education/AstroPI/The_winners_of_the_European_Astro_Pi_Challenge_Mission_Space_Lab_2020-21)
 - **Highly Commended Award** in the European Astro Pi Challenge Mission Space Lab 2023
   - The mission focused on cloud patterns and atmospheric gravity waves
+  - Successfully trained a CNN to identify atmospheric gravity waves
+  - Applied spectral analysis with 2D Fast Fourier Transform
   - [Official ESA Recognition](https://www.esa.int/Education/AstroPI/Astro_Pi_Mission_Space_Lab_2022_23_The_results)
 
 ## Technologies We Use
@@ -67,7 +70,7 @@ Our award-winning mission focused on:
 ## Sponsors and Partners
 
 We are grateful for the support of our sponsors and partners who make our projects possible:
-- Colegiul National "Mihai Eminescu" Oradea ([https://eminescuoradea.ro/](https://eminescuoradea.ro/))
+- Colegiul National "Mihai Eminescu" Oradea
 - Asociatia CoderDojo Oradea
 
 ---
